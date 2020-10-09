@@ -1,0 +1,13 @@
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.csprojAssemblyReference.cache
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.AssemblyInfoInputs.cache
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.AssemblyInfo.cs
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.csproj.CoreCompileInputs.cache
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.exe
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.deps.json
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.runtimeconfig.json
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.runtimeconfig.dev.json
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.dll
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.pdb
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.dll
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.pdb
+C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.genruntimeconfig.cache

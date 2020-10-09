@@ -11,26 +11,15 @@ namespace TeamRoster
         public List<Player> Players { get; set; }
         public DateTime LastUpdate { get; set; }
 
-        public Roster(string teamName, List<Player> players, DateTime lastUpdate)
+        public Roster(string teamName, DateTime lastUpdate, List<Player> players)
         {
             TeamName = teamName;
             Players = players;
             LastUpdate = lastUpdate;
         }
-        public Roster(string teamName, DateTime lastUpdate) : this(teamName, new List<Player>(), lastUpdate) { }
-        public Roster() : this("", new List<Player>(), DateTime.Now) { }
-
-        public override string ToString()
-        {
-            StringBuilder result = new StringBuilder();
-            result.Append($"{TeamName} Roster\nNumber of Players: {Players.Count}\n\n");
-            foreach(Player individual in Players)
-            {
-                result.Append($"{individual.JerseyNumber} {individual.LastName}, {individual.FirstName}\n");
-            }
-            result.Append($"\nLast Updated: {LastUpdate}");
-            return result.ToString();
-        }
+        public Roster(string teamName, DateTime lastUpdate) : this(teamName, lastUpdate, new List<Player>()) { }
+        public Roster(string teamName) : this(teamName, DateTime.Now, new List<Player>()) { }
+        public Roster() : this("", DateTime.Now, new List<Player>()) { }
 
     }
 }

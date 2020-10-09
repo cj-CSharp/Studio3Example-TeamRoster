@@ -50,7 +50,7 @@ namespace TeamRoster
             get { return jerseyNumber; }
             set
             {
-                if(value >= 0 || (value < 55 || value == 100))
+                if(value >= 0 )
                 {
                     jerseyNumber = value;
                 }

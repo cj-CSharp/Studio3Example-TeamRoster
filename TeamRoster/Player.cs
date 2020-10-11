@@ -9,22 +9,22 @@ namespace TeamRoster
         private string firstName;
         private string lastName;
         private int jerseyNumber;
-        public bool HasTeam { get; set; }
+        public string Position { get; set; }
 
-        public Player(string firstName, string lastName, int jerseyNumber)
+        //Constructor
+        public Player(string firstName, string lastName, int jerseyNumber, string position)
         {
             this.firstName = firstName;
             this.lastName = lastName;
             this.jerseyNumber = jerseyNumber;
-            HasTeam = false;
+            this.Position = position;
         }
 
+        //constructor in case jersey number & position hasn't been assigned
+        public Player(string firstName, string lastName) : this(firstName, lastName, 100, "guard") { }
 
-        public Player(string firstName, string lastName) : this(firstName, lastName, 100) { }
-
-
-        public Player() : this("", "", 100) { }
-
+        //No argument constructor
+        public Player() : this("", "", 100, "guard") { }
 
         public string FirstName
         {

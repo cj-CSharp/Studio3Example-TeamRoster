@@ -11,3 +11,16 @@ C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoste
 C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.dll
 C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.pdb
 C:\Users\Chasity\Documents\Carol\LaunchCode\csharp\Examples\TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.genruntimeconfig.cache
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.csprojAssemblyReference.cache
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.AssemblyInfoInputs.cache
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.AssemblyInfo.cs
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.csproj.CoreCompileInputs.cache
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.dll
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.pdb
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.exe
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.deps.json
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.runtimeconfig.json
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.runtimeconfig.dev.json
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.dll
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\bin\Debug\netcoreapp3.1\TeamRoster.pdb
+C:\Users\cjall\Documents\lc101\C#\Studio3Example-TeamRoster\TeamRoster\obj\Debug\netcoreapp3.1\TeamRoster.genruntimeconfig.cache

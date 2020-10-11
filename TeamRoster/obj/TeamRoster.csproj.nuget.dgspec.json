@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chasity\\Documents\\Carol\\LaunchCode\\csharp\\Examples\\TeamRoster\\TeamRoster\\TeamRoster.csproj": {}
+    "C:\\Users\\cjall\\Documents\\lc101\\C#\\Studio3Example-TeamRoster\\TeamRoster\\TeamRoster.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chasity\\Documents\\Carol\\LaunchCode\\csharp\\Examples\\TeamRoster\\TeamRoster\\TeamRoster.csproj": {
+    "C:\\Users\\cjall\\Documents\\lc101\\C#\\Studio3Example-TeamRoster\\TeamRoster\\TeamRoster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chasity\\Documents\\Carol\\LaunchCode\\csharp\\Examples\\TeamRoster\\TeamRoster\\TeamRoster.csproj",
+        "projectUniqueName": "C:\\Users\\cjall\\Documents\\lc101\\C#\\Studio3Example-TeamRoster\\TeamRoster\\TeamRoster.csproj",
         "projectName": "TeamRoster",
-        "projectPath": "C:\\Users\\Chasity\\Documents\\Carol\\LaunchCode\\csharp\\Examples\\TeamRoster\\TeamRoster\\TeamRoster.csproj",
-        "packagesPath": "C:\\Users\\Chasity\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chasity\\Documents\\Carol\\LaunchCode\\csharp\\Examples\\TeamRoster\\TeamRoster\\obj\\",
+        "projectPath": "C:\\Users\\cjall\\Documents\\lc101\\C#\\Studio3Example-TeamRoster\\TeamRoster\\TeamRoster.csproj",
+        "packagesPath": "C:\\Users\\cjall\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cjall\\Documents\\lc101\\C#\\Studio3Example-TeamRoster\\TeamRoster\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Chasity\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cjall\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

@@ -31,9 +31,36 @@ namespace TeamRoster
         {
             StringBuilder result = new StringBuilder();
             result.Append($"\n**********\n{TeamName} Roster\nNumber of Players: {Players.Count}\n\n");
-            foreach(Player individual in Players)
+
+            StringBuilder guards = new StringBuilder();
+            StringBuilder forwards = new StringBuilder();
+            StringBuilder centers = new StringBuilder();
+            StringBuilder others = new StringBuilder();
+
+            foreach (Player individual in Players)
             {
-                result.Append(individual.ToString() + "\n");
+                if (individual.Position == "guard")
+                {
+                    guards.Append("\n" + individual.ToString());
+                }
+                else if (individual.Position == "forward")
+                {
+                    forwards.Append("\n" + individual.ToString());
+                }
+                else if (individual.Position == "center")
+                {
+                    centers.Append("\n" + individual.ToString());
+                } 
+                else
+                {
+                    others.Append("\n" + individual.ToString());
+                }
+            }
+
+            result.Append("Guards" + guards.ToString() + "\n\nForwards" + forwards.ToString() + "\n\nCenters"+ centers.ToString());
+            if(others.Length > 0)
+            {
+                result.Append("\n\nOthers" +others.ToString());
             }
             result.Append($"\nLast Updated: {LastUpdate}\n**********\n");
             return result.ToString();
@@ -41,12 +68,11 @@ namespace TeamRoster
 
         public bool AddPlayer(Player playerToAdd)
         {
-            if(playerToAdd.HasTeam)
+            if(Players.Contains(playerToAdd))
             {
                 return false;
             }
             Players.Add(playerToAdd);
-            playerToAdd.HasTeam = true ;
             LastUpdate = DateTime.Now;
             return true;
         }
@@ -56,7 +82,6 @@ namespace TeamRoster
             if(Players.Contains(playerToRemove))
             {
                 Players.Remove(playerToRemove);
-                playerToRemove.HasTeam = false;
                 LastUpdate = DateTime.Now;
                 return true;
             }
